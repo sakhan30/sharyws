@@ -16,7 +16,7 @@ public class TestServices
 		    try 
 		    {
 		      HttpHost target = new HttpHost("localhost", 8080, "http");
-		      HttpGet getRequest = new HttpGet("/sharyapps/convert/80020");
+		      HttpGet getRequest = new HttpGet("/sharyws/weather/80020");
 		      System.out.println("executing request to " + target);
 		      HttpResponse httpResponse = httpclient.execute(target, getRequest);
 		      System.out.println("----------------------------------------");

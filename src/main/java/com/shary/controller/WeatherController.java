@@ -29,7 +29,7 @@ public class WeatherController
 	{
 		LOGGER.info("Came in WeatherController1 by Zip  " + zip);
 		Map<String,Object> map = service.getWeatherByZipCode(zip);		
-		LOGGER.info("finished in WeatherConroller by zip service");
+		LOGGER.info("finished in WeatherConroller1 by zip service");
 		return map;
 	}
 	

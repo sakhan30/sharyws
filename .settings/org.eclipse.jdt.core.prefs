@@ -11,3 +11,4 @@ org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
 org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
 org.eclipse.jdt.core.compiler.problem.forbiddenReference=warning
 org.eclipse.jdt.core.compiler.source=1.5
+>>>>>>> 5cddbd61142f7ce8c14e7dd49461c2f11eef7142

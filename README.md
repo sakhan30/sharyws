@@ -18,3 +18,5 @@ $ git remote -v
 origin  https://github.com/sakhan30/sharyws.git (fetch)
 origin  https://github.com/sakhan30/sharyws.git (push)
 
+To download use :
+git pull -a https://github.com/sakhan30/sharyws.git
